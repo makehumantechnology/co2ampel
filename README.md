@@ -23,3 +23,5 @@ Firmware for the Arduino IDE
 
 # board Folder
 Fritzing Files for the custom connector board
+
+https://makehumantechnology.org/en/
