@@ -1,6 +1,6 @@
 # co2ampel
 
-!(https://github.com/makehumantechnology/co2ampel/blob/main/co2ampel.png)
+![alt text](https://github.com/makehumantechnology/co2ampel/blob/main/co2ampel.png)
 
 Introducting the 🇨🇭 designed and made DIY CO2-Sensor for Schools: Build your own sensor, and learn hands-on science and engineering AND supports indoor air quality within the school setting. Featuring the SCD30 CO2-Sensor by sensirion
 
