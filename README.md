@@ -5,12 +5,12 @@ Introducting the 🇨🇭 designed and made DIY CO2-Sensor for Schools: Build yo
 # BOM
 
 - Sensirion SCD30 CO2-Sensor
-- ESP32 Development Module
+- ESP32 Development Module (https://de.aliexpress.com/item/32834130422.html)
 - M3x35 Screw with nut
-- Adafruit 16LED Neopixel Ring 
+- Adafruit 16LED Neopixel Ring (https://www.adafruit.com/product/1463)
 - AC Adapter 5V 1A (USB-A)
-- USB A-to-Micro Cable
-- 9 female-to-female Jumper Cables
+- USB A-to-Micro Cable 1m
+- 9 female-to-female 10cm Jumper Cables (https://de.aliexpress.com/item/1005002015560403.html)
 
 # svg Folder
 Case files to Lasercut
