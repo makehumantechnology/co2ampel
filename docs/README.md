@@ -39,4 +39,38 @@ Install fixation plate
 
 ![](step8.png)
 
+CPU-Board Pin Reference
 
+![](step9.png)
+
+Connect red cables
+
+![](step10.png)
+
+Connect black cables
+
+![](step11.png)
+
+Connect yellow cable
+
+![](step12.png)
+
+Connect blue cable
+
+![](step13.png)
+
+Connect green cable
+
+![](step14.png)
+
+Double-sided tape
+
+![](step15.png)
+
+Attach LED Ring to case top
+
+![](step16.png)
+
+Finish by closing case with screw and nut
+
+![](step17.png)
